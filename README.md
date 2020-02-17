@@ -6,4 +6,21 @@ This project incorporates some data scraping, data wrangling, data cleaning, and
 
 <img width="1440" alt="imdb" src="https://user-images.githubusercontent.com/53641091/74690899-7f8ac800-5195-11ea-8e7a-37a29a9c56ba.png">
 
-## Example of dataframe 
+## Example of dataframe:
+
+This project makes use of various modules including beautifulsoup, pandas, matplotlib, seaborn, and numpy. 
+Below is the dataframe that is created displaying the relevant information we need to create the visualizations and explorations. 
+
+<img width="1029" alt="Screen Shot 2020-02-17 at 3 13 23 PM" src="https://user-images.githubusercontent.com/53641091/74691828-3d638580-5199-11ea-83ee-3871c386c4d1.png">
+
+## Purpose of project: 
+
+The purpose was to explore the data within IMDB's TOP 250 movies of all-time and determine if there were any meaninful conclusions I could derive from such. I was looking for any correlations between the features I scraped that would eventually be used to drive my visualizations. 
+
+## Questions: 
+
+## Findings:
+
+## Recommendations:
+
+## Conclusions:
