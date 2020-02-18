@@ -51,3 +51,15 @@ When looking at the top actors for the TOP 20 action films, we see three names s
 As you may have become aware by looking at the scatterplot above, Christian Bale's appearances in the Batman Begins, The Dark Knight Rises, and the Dark Knight all have more votes than do the films where Mark Hamill is in. Those being Star Wars: Episode IV- A New Hope, Star Wars: Episode V- The Empire Strikes Back, and Star Wars: Episode VI- Return of the Jedi. The film with the least votes for Christian Bale has more votes than the movie starring Mark Hamill with the most votes. Also, Christian Bale's films are all directed by Christopher Nolan, whereas Mark Hamill's films are directed by three different directors. Without a doubt, the Christopher Nolan-Christian Bale duo would be a banger in the industry and would definitely disrupt the space in a positive way. The company's venture would certainly reap the rewards. 
 
 **Are there any meaningful correlations/relationships to look at that might provide more insight into the film-making industry?**
+
+<p align="center">
+ <img width="454" alt="Screen Shot 2020-02-17 at 5 34 57 PM" src="https://user-images.githubusercontent.com/53641091/74701975-64cc4980-51bd-11ea-991d-36cc3ec82c59.png">
+</p> 
+
+This is an interesting correlational heatmap that may prove valuable in future work. 
+
+<p align="center">
+<img width="431" alt="Screen Shot 2020-02-17 at 5 41 18 PM" src="https://user-images.githubusercontent.com/53641091/74702031-9218f780-51bd-11ea-8337-26be2955f803.png">
+</p>
+
+An interesting exploration and subsequent insight that was inspired by the correlational heatmap above was the notion to look at the correlation between times and gross in terms of genre. What can be derived from this is that the films in the action genre tend to have higher gross as the timespan of the film increases. What this tells the company is that when making their action film, they should focus on making it on the longer side. 
