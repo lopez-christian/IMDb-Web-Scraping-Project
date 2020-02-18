@@ -39,7 +39,11 @@ The director that seems to garner the most votes in the action genre appears to 
 <img width="418" alt="Screen Shot 2020-02-17 at 4 59 35 PM" src="https://user-images.githubusercontent.com/53641091/74694924-ecf32480-51a6-11ea-8539-588c8d38150f.png">
 </p>
 
+When looking at the top actors for the TOP 20 action films we see 3 names stick out above the rest. They are: Christian Bale, Mark Hamill, and Robert Downey Jr. With a 3,3, and 2 count, respectively amongst the TOP 20. If the company had to go with one of these stars, I would definitely recommend they go with Christian Bale. And you may be asking why not Mark Hamill since he is also in 3 of the TOP 20 action films? ... Hopefully the scatterplot below illustrates this a little better.  
 
+<img width="973" alt="Screen Shot 2020-02-17 at 5 15 11 PM" src="https://user-images.githubusercontent.com/53641091/74695512-18770e80-51a9-11ea-9dd1-842c44851231.png">
+
+As you may have become aware by looking at the scatterplot above, Christian Bale's appearances in the Batman Begins, The Dark Knight Rises, and The Dark Knight all have more votes than do the films where Mark Hamill is in. Those being Stars Wars: Episode IV- A New Hope, Star Wars: Episode V- The Empire Strikes Back, and Star Wars: Episode VI- Return of the Jedi. The film with the least votes for Christian Bale has more votes than the movie starring Mark Hamill with the most votes. Also, Christian Bale's films are all directed by Christopher Nolan, whereas Mark Hamill's films are all directed by three different directors. 
 
 
 ## Key takeaways:
