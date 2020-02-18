@@ -43,7 +43,6 @@ When looking at the top actors for the TOP 20 action films we see 3 names stick 
 
 <img width="973" alt="Screen Shot 2020-02-17 at 5 15 11 PM" src="https://user-images.githubusercontent.com/53641091/74695512-18770e80-51a9-11ea-9dd1-842c44851231.png">
 
-As you may have become aware by looking at the scatterplot above, Christian Bale's appearances in the Batman Begins, The Dark Knight Rises, and The Dark Knight all have more votes than do the films where Mark Hamill is in. Those being Stars Wars: Episode IV- A New Hope, Star Wars: Episode V- The Empire Strikes Back, and Star Wars: Episode VI- Return of the Jedi. The film with the least votes for Christian Bale has more votes than the movie starring Mark Hamill with the most votes. Also, Christian Bale's films are all directed by Christopher Nolan, whereas Mark Hamill's films are all directed by three different directors. 
-
+As you may have become aware by looking at the scatterplot above, Christian Bale's appearances in the Batman Begins, The Dark Knight Rises, and The Dark Knight all have more votes than do the films where Mark Hamill is in. Those being Stars Wars: Episode IV- A New Hope, Star Wars: Episode V- The Empire Strikes Back, and Star Wars: Episode VI- Return of the Jedi. The film with the least votes for Christian Bale has more votes than the movie starring Mark Hamill with the most votes. Also, Christian Bale's films are all directed by Christopher Nolan, whereas Mark Hamill's films are all directed by three different directors. Without a doubt, the Christopher Nolan-Christian Bale duo would be a banger in the industry and would definitely disrupt the space in a positive way. The company's venture would certaintly reap the rewards. 
 
 ## Key takeaways:
