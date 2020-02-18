@@ -26,10 +26,11 @@ The action genre seems to be the most promising in terms of breaking into film i
 
 - What directors and actors fare best in said genre? And how do they compare amongst each other?
 
-<img width="993" alt="Screen Shot 2020-02-17 at 4 48 41 PM" src="https://user-images.githubusercontent.com/53641091/74700600-ebcaf300-51b8-11ea-8ce7-5ce1ac48a661.png">
+<img width="993" alt="Screen Shot 2020-02-17 at 4 50 19 PM" src="https://user-images.githubusercontent.com/53641091/74700839-b5da3e80-51b9-11ea-9d5a-fc06e06b0524.png">
 
 The director that seems to garner the most votes in the action genre appears to be Christopher Nolan when looking at the TOP 20 action films. The Dark Knight is his most successful film with almost double the votes compared to his other films. James Cameron comes in second with Avatar amassing around 1.08 million votes. It'd be smart for the company to hedge their bets and hire Christopher Nolan as their producer if they aspire to break in. 
 
+<img width="418" alt="Screen Shot 2020-02-17 at 4 59 35 PM" src="https://user-images.githubusercontent.com/53641091/74700908-e91ccd80-51b9-11ea-9679-cad744bfc183.png">
 
 
 - Are there any meaningful correlations/relationships to look at that might provide more insight into the film-making industry?
