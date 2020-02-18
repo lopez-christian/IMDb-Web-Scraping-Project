@@ -35,8 +35,9 @@ The action genre seems to be most promising in terms of breaking into the indust
 
 The director that seems to garner the most votes in the action genre appears to be Christopher Nolan when looking at the TOP 20 action films. The Dark Knight is his most successful film with almost double the votes compared to his other films. James Cameron comes in second with Avatar amassing around 1.08 million votes. It'd be smart for the company to hedge its bets and hire Christopher Nolan as their producer if they aspire to break in. 
 
+<p align="center">
 <img width="418" alt="Screen Shot 2020-02-17 at 4 59 35 PM" src="https://user-images.githubusercontent.com/53641091/74694924-ecf32480-51a6-11ea-8539-588c8d38150f.png">
-
+</p>
 
 
 
