@@ -29,7 +29,7 @@ The purpose was to explore the data within IMDB's TOP 250 movies of all-time and
 
 The action genre seems to be most promising in terms of breaking into the industry. The spread represents many more data points then do the other genres. Although action doesn't have the films with the highest metascores, they are represented much more amongst the films in the TOP 250 IMDb movies of all-time. If a company decided to go ahead and produce an action-packed film their chances of making it into the TOP 250 would be much greater than if they were to go with any other genre. 
 
-* *Sidenote: If a company decided to go ahead and make a horror film or western film, they would have to execute and exceptional film with an extremely high metascore in order to have any remote chance of making it into the TOP 250* *
+* *Sidenote: If a company decided to go ahead and make a horror film or western film, they would have to execute and exceptional film with an extremely high metascore in order to have any remote chance of making it into the TOP 250
 
 <img width="952" alt="Screen Shot 2020-02-17 at 5 06 09 PM" src="https://user-images.githubusercontent.com/53641091/74695166-d4cfd500-51a7-11ea-9e46-ab6a13743998.png">
 
@@ -55,7 +55,7 @@ This is an interesting correlational heatmap that may prove to be very valuable 
 <img width="431" alt="Screen Shot 2020-02-17 at 5 41 18 PM" src="https://user-images.githubusercontent.com/53641091/74696547-b9b39400-51ac-11ea-8568-2a6e2bd74777.png">
 </p>
 
-* *An interesting exploration and subsequent insight that was inspired by the correlational heatmap above was the notion to look at the correlation between time and gross in terms of genre. What can be derived from this is that the films in the action genre tend to have a higher gross as the timespan of the film increases. What this tells the company is that when making their action film, they should try to make it on the longer side.* * 
+* *An interesting exploration and subsequent insight that was inspired by the correlational heatmap above was the notion to look at the correlation between time and gross in terms of genre. What can be derived from this is that the films in the action genre tend to have a higher gross as the timespan of the film increases. What this tells the company is that when making their action film, they should try to make it on the longer side. 
 
 ## Key takeaways:
 
