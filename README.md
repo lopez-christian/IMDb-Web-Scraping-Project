@@ -31,7 +31,7 @@ The action genre seems to be most promising in terms of breaking into the indust
 
 * *Sidenote: If a company decided to go ahead and make a horror film or western film, they would have to execute and exceptional film with an extremely high metascore in order to have any remote chance of making it into the TOP 250* *
 
-<img width="993" alt="Screen Shot 2020-02-17 at 4 50 19 PM" src="https://user-images.githubusercontent.com/53641091/74694609-99cca200-51a5-11ea-8b5c-8add09225c34.png">
+<img width="952" alt="Screen Shot 2020-02-17 at 5 06 09 PM" src="https://user-images.githubusercontent.com/53641091/74695166-d4cfd500-51a7-11ea-9e46-ab6a13743998.png">
 
 The director that seems to garner the most votes in the action genre appears to be Christopher Nolan when looking at the TOP 20 action films. The Dark Knight is his most successful film with almost double the votes compared to his other films. James Cameron comes in second with Avatar amassing around 1.08 million votes. It'd be smart for the company to hedge its bets and hire Christopher Nolan as their producer if they aspire to break in. 
 
