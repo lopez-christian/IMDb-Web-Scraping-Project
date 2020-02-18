@@ -24,7 +24,7 @@ The action genre seems to be the most promising in terms of breaking into film i
 
 * *Sidenote: If a company decided to go ahead and make a horror film or western film, they would have to execute an exceptional film with an extremely high metascore in order to have any remote chance of making it into the TOP 250.* 
 
-** **What directors and actors fare best in said genre? And how do they compare amongst each other?
+** **What directors and actors fare best in said genre? And how do they compare amongst each other?*
 
 <img width="952" alt="Screen Shot 2020-02-17 at 5 06 09 PM" src="https://user-images.githubusercontent.com/53641091/74700960-0fdb0400-51ba-11ea-807e-8e35259f8f5a.png">
 
