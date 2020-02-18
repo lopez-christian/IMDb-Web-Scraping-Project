@@ -48,12 +48,18 @@ As you may have become aware by looking at the scatterplot above, Christian Bale
 <p align="center">
 <img width="454" alt="Screen Shot 2020-02-17 at 5 34 57 PM" src="https://user-images.githubusercontent.com/53641091/74696277-d7342e00-51ab-11ea-8527-69da4ee4da97.png">
 </p>
-This is an interesting correlational heatmap that prove to be very valuable for future work. 
 
+This is an interesting correlational heatmap that may prove to be very valuable for future work. 
 
+<p align="center">
+<img width="431" alt="Screen Shot 2020-02-17 at 5 41 18 PM" src="https://user-images.githubusercontent.com/53641091/74696547-b9b39400-51ac-11ea-8568-2a6e2bd74777.png">
+</p>
+
+* *An interesting exploration and subsequent insight that was inspired by the correlational heatmap above was the notion to look at the correlation between time and gross in terms of genre. What can be derived from this is that the films in the action genre tend to have a higher gross as the timespan of the film increases. What this tells the company is that when making their action film, they should try to make it on the longer side.* * 
 
 ## Key takeaways:
 
 1. Stick with the action genre. The proof is in the pudding. 
 2. Try your best to hire Christopher Nolan as the director for your film. 
 3. Christian Bale is by far your safest bet at a quality action-packed film. 
+4. 
