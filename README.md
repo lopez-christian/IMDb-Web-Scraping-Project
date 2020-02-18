@@ -63,3 +63,10 @@ This is an interesting correlational heatmap that may prove valuable in future w
 </p>
 
 An interesting exploration and subsequent insight that was inspired by the correlational heatmap above was the notion to look at the correlation between times and gross in terms of genre. What can be derived from this is that the films in the action genre tend to have higher gross as the timespan of the film increases. What this tells the company is that when making their action film, they should focus on making it on the longer side. 
+
+# Key takeways:
+
+**1. Stick with the action genre. The proof is in the pudding.**
+**2. Try your best to hire Christopher Nolan as the director for your film. Trust me on this.**
+**3. Christian Bale is by far your safest bet at a quality action-packed film.** 
+**4. Make the action film longer. The longer the timespan the better it does in the box-office in terms of gross.**
