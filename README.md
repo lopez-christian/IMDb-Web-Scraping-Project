@@ -19,9 +19,8 @@ The purpose was to explore the data within IMDB's TOP 250 movies of all-time and
 
 ## Questions: 
 
-- How does the spread of genre in terms of metascore look for each title in the dataset?
 - What genre appears to be most promising for a company that wants to break into the film-making industry?
-- What actors and directors fare best in said genre? And how do they compare amongst each other? 
+- What directors and actors fare best in said genre? And how do they compare amongst each other? 
 - Are there any meaninful correlations or relationships to look at that might give us a little more insight into the film-making industry?
 
 ## Findings:
@@ -32,8 +31,14 @@ The action genre seems to be most promising in terms of breaking into the indust
 
 * *Sidenote: If a company decided to go ahead and make a horror film or western film, they would have to execute and exceptional film with an extremely high metascore in order to have any remote chance of making it into the TOP 250* *
 
+<img width="993" alt="Screen Shot 2020-02-17 at 4 50 19 PM" src="https://user-images.githubusercontent.com/53641091/74694609-99cca200-51a5-11ea-8b5c-8add09225c34.png">
+
+The director that seems to garner the most votes in the action genre appears to be Christopher Nolan when looking at the TOP 20 action films. The Dark Knight is his most successful film with almost double the votes compared to his other films. James Cameron comes in second with Avatar amassing around 1.08 million votes. It'd be smart for the company to hedge its bets and hire Christopher Nolan as their producer if they aspire to break in. 
+
+<img width="418" alt="Screen Shot 2020-02-17 at 4 59 35 PM" src="https://user-images.githubusercontent.com/53641091/74694924-ecf32480-51a6-11ea-8539-588c8d38150f.png">
 
 
-## Recommendations:
 
-## Conclusions:
+
+
+## Key takeaways:
