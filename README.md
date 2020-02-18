@@ -30,7 +30,7 @@ The purpose was to explore the data within IMDB's TOP 250 movies of all-time and
 
 The action genre seems to be most promising in terms of breaking into the industry. The spread represents many more data points then do the other genres. Although action doesn't have the films with the highest metascores, they are represented much more amongst the films in the TOP 250 IMDb movies of all-time. If a company decided to go ahead and produce an action-packed film their chances of making it into the TOP 250 would be much greater than if they were to go with any other genre. 
 
-* *-Sidenote: If a company decided to go ahead and make a horror film or western film, they would have to execute and exceptional film with an extremely high metascore in order to have any remote chance of making it into the TOP 250* *
+* *Sidenote: If a company decided to go ahead and make a horror film or western film, they would have to execute and exceptional film with an extremely high metascore in order to have any remote chance of making it into the TOP 250* *
 
 
 
