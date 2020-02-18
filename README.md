@@ -26,11 +26,16 @@ The action genre seems to be the most promising in terms of breaking into film i
 
 - What directors and actors fare best in said genre? And how do they compare amongst each other?
 
-<img width="993" alt="Screen Shot 2020-02-17 at 4 50 19 PM" src="https://user-images.githubusercontent.com/53641091/74700839-b5da3e80-51b9-11ea-9d5a-fc06e06b0524.png">
+<img width="952" alt="Screen Shot 2020-02-17 at 5 06 09 PM" src="https://user-images.githubusercontent.com/53641091/74700960-0fdb0400-51ba-11ea-807e-8e35259f8f5a.png">
 
 The director that seems to garner the most votes in the action genre appears to be Christopher Nolan when looking at the TOP 20 action films. The Dark Knight is his most successful film with almost double the votes compared to his other films. James Cameron comes in second with Avatar amassing around 1.08 million votes. It'd be smart for the company to hedge their bets and hire Christopher Nolan as their producer if they aspire to break in. 
 
+<p align="center">
 <img width="418" alt="Screen Shot 2020-02-17 at 4 59 35 PM" src="https://user-images.githubusercontent.com/53641091/74700908-e91ccd80-51b9-11ea-9679-cad744bfc183.png">
+</p>
 
+When looking at the top actors for the TOP 20 action films, we see three names stick out above the rest. They are: Christian Bale, Mark Hamill, and Robert Downey Jr. With counts of 3, 3, and 2, respectively. If the company had to go with one of these stars, I would definitely recommend they go with Christian Bale. And you may be asking yourself, why not Mark Hamill, since he is also in the TOP 20 action films? ... Hopefully, the scatterplot below illustrates my point a little better. 
+
+<img width="973" alt="Screen Shot 2020-02-17 at 5 15 11 PM" src="https://user-images.githubusercontent.com/53641091/74701159-b58e7300-51ba-11ea-9d1e-611d3f704cb1.png">
 
 - Are there any meaningful correlations/relationships to look at that might provide more insight into the film-making industry?
