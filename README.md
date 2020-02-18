@@ -1,6 +1,7 @@
 ## Flatiron School Module 1 Project: IMDb Web Scraping
 
-# Data Scraping the TOP 250 films of all-time in IMDb. Sorted by number of votes in descending order. 
+# Data Scraping the TOP 250 films of all-time in IMDb 
+# Sorted by number of votes in descending order
 
 This project incorporates some data scraping, data wrangling, data cleaning, and visualizations. 
 
