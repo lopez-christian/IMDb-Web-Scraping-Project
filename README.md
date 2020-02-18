@@ -48,7 +48,6 @@ As you may have become aware by looking at the scatterplot above, Christian Bale
 <p align="center">
 <img width="454" alt="Screen Shot 2020-02-17 at 5 34 57 PM" src="https://user-images.githubusercontent.com/53641091/74696277-d7342e00-51ab-11ea-8527-69da4ee4da97.png">
 </p>
-
 This is an interesting correlational heatmap that prove to be very valuable for future work. 
 
 
