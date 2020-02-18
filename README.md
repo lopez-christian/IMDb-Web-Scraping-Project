@@ -19,6 +19,11 @@ The purpose was to explore the data within IMDB's TOP 250 movies of all-time and
 
 ## Questions: 
 
+How does the spread of genre in terms of metascore look for each title in the dataset?
+What genre appears to be most promising for a company that wants to break into the film-making industry?
+What actors and directors fare best in said genre? And how do they compare amongst each other? 
+Are there any meaninful correlations or relationships to look at that might give us a little more insight into the film-making industry?
+
 ## Findings:
 
 ## Recommendations:
