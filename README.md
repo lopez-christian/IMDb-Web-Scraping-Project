@@ -67,9 +67,9 @@ An interesting exploration and subsequent insight that was inspired by the corre
 
 # Key takeways:
 
-**1. Stick with the action genre. The proof is in the pudding.**
+**1. Stick with the action genre.**
 
-**2. Try your best to hire Christopher Nolan as the director for your film. Trust me on this.**
+**2. Try your best to hire Christopher Nolan as the director for your film.**
 
 **3. Christian Bale is by far your safest bet at a quality action-packed film.** 
 
