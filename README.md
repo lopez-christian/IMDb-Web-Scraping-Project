@@ -17,7 +17,7 @@ This project incorporates some data scraping, data wrangling, data cleaning, and
 
 # Purpose of project:
 
-The purpose of the project was to explore the data within IMDb's TOP 250 films of all-time and determine if there were any meaninful conlcusions I could derive from such. I was looking for any correlaitons between the features I scraped that would eventually be used to drive my visualizations. 
+The purpose of the project was to explore the data within IMDb's TOP 250 films of all-time and determine if there were any meaninful conlcusions I could derive from such. I was looking for any correlations between the features I scraped that would eventually be used to drive my visualizations. 
 
 # Questions/Answers:
 
